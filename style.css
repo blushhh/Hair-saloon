@@ -1,0 +1,62 @@
+.glava {
+    height: 50px; 
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.ozadje {
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
+.ponudba {
+    text-align: center;
+    color: gray;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.ponudba_slike {
+    border-radius: 8px;
+}
+
+.podatki {
+    margin-top: 5%;
+}
+
+.gumb_poslji {
+    background-color: red;
+    color: white;
+}
+
+.FAQ {
+    text-align: center;
+    font-family: sans-serif;
+    color: gray;
+}
+
+.faq_vprasanja {
+    font-family: sans-serif;
+    font-size: 16px;
+    color: gray;
+    cursor: default;
+    
+}
+.faq_vprasanja:hover {
+    text-decoration: none;
+    color: #3b3b3b;
+}
+ 
+
+.o_nas {
+    color: gray;
+    text-align: center;
+}
+
+
+
+
